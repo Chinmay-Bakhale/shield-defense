@@ -64,7 +64,7 @@ This project introduces a novel defense mechanism that uses attention maps extra
 1.  Configure the main evaluation script(s) (e.g., `run_gray_box_experiment`, `run_black_box_experiment`, `run_attention_guided_defense_experiment`) with the correct dataset path and desired model qualities.
 2.  Execute the script(s):
     ```
-    python your_main_script.py
+    Run the jupyter notebook
     ```
 3.  The script will:
     *   Load models and data.
